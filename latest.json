@@ -1,7 +1,7 @@
 {
-  "commit": "fa74819a3ae086106310ac593138096a220bc5f2",
-  "fecha": "2026-08-19 14:37 UTC",
-  "digest": "sha256:f21b63720ecb836df8b260f6de02038b860f6096d4a5eb45d64acf2a7b1071e9",
-  "notas": "El tamaño de la interfaz se elige en Configuración, y Configuración cabe en la pantalla",
+  "commit": "d12efe6df25decc00fe7035f312be59a266c29cf",
+  "fecha": "2026-10-29 08:56 UTC",
+  "digest": null,
+  "notas": "Actualizaci�n disponible",
   "version": "0.10.3"
 }
