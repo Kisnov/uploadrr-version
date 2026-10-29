@@ -1,7 +1,7 @@
 {
-  "commit": "c1d776d510d7f05720389bf698c00017c7796c58",
-  "fecha": "2026-10-29 10:34 UTC",
-  "digest": "sha256:7e1220c23439dea9bcbd92b35209069f3d31421c5cbfb61e1ebcd9ae845297f6",
+  "commit": "836de07ae1190d2f87d7bc633c96854e6a24cbfc",
+  "fecha": "2026-10-29 11:29 UTC",
+  "digest": "sha256:c86cabaa5c176766b0c9dbb9805c8b3157e6392083ed4a81aee8395cfb68c1b1",
   "notas": "Biblioteca con filtros de varias opciones y menos consumo de memoria, asistente de subida que recuerda lo elegido, catálogo más rápido, parada en segundos, interfaz manejable con teclado y correcciones de fiabilidad",
   "version": "0.11.0"
 }
