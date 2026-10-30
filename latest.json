@@ -1,7 +1,7 @@
 {
-  "commit": "c91aaeee1841096d454e98427ac3cdf4b0cb44f6",
-  "fecha": "2026-10-30 22:54 UTC",
-  "digest": "sha256:2cd54243a76ae4a70f653f9be79005bf52ccb3ee34ca1abba73a6d241491a85f",
-  "notas": "Grupo de release en Biblioteca y como Tag por defecto, filtros de columna con búsqueda, tipo SD, capturas solo del primer capítulo en packs, qBittorrent a través de qui y correcciones de fiabilidad",
-  "version": "0.12.0"
+  "commit": "77cdfecd2b6cc46313974f920dde2ab71cf2e090",
+  "fecha": "2026-10-30 23:34 UTC",
+  "digest": "sha256:35cf9cee35a937f3f0900fd5a9b1c01d4c37820a44008416e4c451733f9eb7f2",
+  "notas": "Correcciones y mejoras",
+  "version": "0.12.1"
 }
