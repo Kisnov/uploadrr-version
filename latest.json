@@ -1,7 +1,7 @@
 {
-  "commit": "836de07ae1190d2f87d7bc633c96854e6a24cbfc",
-  "fecha": "2026-10-29 11:29 UTC",
-  "digest": "sha256:c86cabaa5c176766b0c9dbb9805c8b3157e6392083ed4a81aee8395cfb68c1b1",
-  "notas": "Biblioteca con filtros de varias opciones y menos consumo de memoria, asistente de subida que recuerda lo elegido, catálogo más rápido, parada en segundos, interfaz manejable con teclado y correcciones de fiabilidad",
-  "version": "0.11.0"
+  "commit": "c91aaeee1841096d454e98427ac3cdf4b0cb44f6",
+  "fecha": "2026-10-30 22:54 UTC",
+  "digest": "sha256:2cd54243a76ae4a70f653f9be79005bf52ccb3ee34ca1abba73a6d241491a85f",
+  "notas": "Grupo de release en Biblioteca y como Tag por defecto, filtros de columna con búsqueda, tipo SD, capturas solo del primer capítulo en packs, qBittorrent a través de qui y correcciones de fiabilidad",
+  "version": "0.12.0"
 }
