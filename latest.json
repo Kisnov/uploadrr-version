@@ -1,7 +1,7 @@
 {
-  "commit": "1fe50eb6b8734fedf0377805aeb9e7c3928c4553",
-  "fecha": "2026-10-31 11:24 UTC",
-  "digest": "sha256:d40e14c24525f68602d3ce9e706414fed7a893586e4f294d4f71baf97198669e",
-  "notas": "Biblioteca más rápida al filtrar y en la vista de pósters",
-  "version": "0.13.1"
+  "commit": "5c7086c97c72994af14244b8912930a2a51a0871",
+  "fecha": "2026-10-31 12:24 UTC",
+  "digest": "sha256:883bac7c5f4173e9ff318878832c69121f201932f3a5627b6322d07b0e3d6e15",
+  "notas": "Biblioteca: con un filtro puesto, los capítulos se agrupan dentro de su serie.",
+  "version": "0.13.2"
 }
