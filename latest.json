@@ -1,7 +1,7 @@
 {
-  "commit": "96eb6f4c080835c27b801b27b2de5a533eb73511",
-  "fecha": "2026-10-31 09:10 UTC",
-  "digest": "sha256:da43323186122538271f250e93b6f2faa96c66b8e10017fe085044bf044e28c0",
-  "notas": "Mejoras en el Panel, Peticiones y la Biblioteca",
-  "version": "0.13.0"
+  "commit": "1fe50eb6b8734fedf0377805aeb9e7c3928c4553",
+  "fecha": "2026-10-31 11:24 UTC",
+  "digest": "sha256:d40e14c24525f68602d3ce9e706414fed7a893586e4f294d4f71baf97198669e",
+  "notas": "Biblioteca más rápida al filtrar y en la vista de pósters",
+  "version": "0.13.1"
 }
