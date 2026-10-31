@@ -1,7 +1,7 @@
 {
-  "commit": "77cdfecd2b6cc46313974f920dde2ab71cf2e090",
-  "fecha": "2026-10-30 23:34 UTC",
-  "digest": "sha256:35cf9cee35a937f3f0900fd5a9b1c01d4c37820a44008416e4c451733f9eb7f2",
-  "notas": "Correcciones y mejoras",
-  "version": "0.12.1"
+  "commit": "96eb6f4c080835c27b801b27b2de5a533eb73511",
+  "fecha": "2026-10-31 09:10 UTC",
+  "digest": "sha256:da43323186122538271f250e93b6f2faa96c66b8e10017fe085044bf044e28c0",
+  "notas": "Mejoras en el Panel, Peticiones y la Biblioteca",
+  "version": "0.13.0"
 }
