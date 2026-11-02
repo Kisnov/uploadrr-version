@@ -1,7 +1,7 @@
 {
-  "commit": "452b923a705b6e95c208b991d846760541a17f3f",
-  "fecha": "2026-11-01 11:23 UTC",
-  "digest": "sha256:baaee7fcdb8728115fbd9b12325147364a70990f5d150fad086d59fb1f4a7572",
-  "notas": "Subidas sin espera inicial y cancelables en todo momento, mejoras en packs de temporada y pistas de audio, copias de seguridad automáticas, ajustes nuevos y correcciones de seguridad.",
-  "version": "0.14.0"
+  "commit": "d3ef01ec21b0f07433da32febc6cf4d2716546be",
+  "fecha": "2026-11-02 03:25 UTC",
+  "digest": "sha256:e98d8cdf68c40d030a68b7e0547ef35497fed0f7ce0497c0f80e6ccc320661c1",
+  "notas": "Subidas por pasos con reintento desde el que falló, peticiones a eMuwarez más estables y correcciones en el asistente y en Configuración.",
+  "version": "0.15.0"
 }
