@@ -1,7 +1,7 @@
 {
-  "commit": "d3ef01ec21b0f07433da32febc6cf4d2716546be",
-  "fecha": "2026-11-02 03:25 UTC",
-  "digest": "sha256:e98d8cdf68c40d030a68b7e0547ef35497fed0f7ce0497c0f80e6ccc320661c1",
-  "notas": "Subidas por pasos con reintento desde el que falló, peticiones a eMuwarez más estables y correcciones en el asistente y en Configuración.",
-  "version": "0.15.0"
+  "commit": "a9671319e3f88f5e9a7b1b71120b32a0d72e6348",
+  "fecha": "2026-11-02 22:21 UTC",
+  "digest": "sha256:fec764f7a0c20ae98161a5c722332de94ae7f5b0a87f95c2a2cc8733ec96c873",
+  "notas": "Salud del seeding de cada subida en Subidas, historial y gráficos de tu cuenta en Estadísticas, widget para Homepage, aviso de peticiones nuevas que ya se pueden rellenar, botón «Rellenar petición» y sincronización de una instancia al volver a responder.",
+  "version": "0.16.0"
 }
