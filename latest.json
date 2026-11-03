@@ -1,7 +1,7 @@
 {
-  "commit": "a9671319e3f88f5e9a7b1b71120b32a0d72e6348",
-  "fecha": "2026-11-02 22:21 UTC",
-  "digest": "sha256:fec764f7a0c20ae98161a5c722332de94ae7f5b0a87f95c2a2cc8733ec96c873",
-  "notas": "Salud del seeding de cada subida en Subidas, historial y gráficos de tu cuenta en Estadísticas, widget para Homepage, aviso de peticiones nuevas que ya se pueden rellenar, botón «Rellenar petición» y sincronización de una instancia al volver a responder.",
-  "version": "0.16.0"
+  "commit": "60d557b266f2fb48dde6cb14cb7a78f5ef1060a9",
+  "fecha": "2026-11-03 12:07 UTC",
+  "digest": "sha256:f15e4984f0bc5d12e4b42ada02b5f294e126ec682033760f4ec0d3669d986ec2",
+  "notas": "Correcciones y mejoras",
+  "version": "0.16.1"
 }
