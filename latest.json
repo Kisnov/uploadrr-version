@@ -1,7 +1,7 @@
 {
-  "commit": "17ce7b1ac8ff7465518c48fca16908624e122231",
-  "fecha": "2026-11-03 22:42 UTC",
-  "digest": "sha256:e41d3285b1a0a18a551e5ad49a6edd4c62bc33b111ebec4d126e09edc08dc8e6",
-  "notas": "Correcciones y mejoras: iconos de los sitios incluidos en la app, peticiones sin castellano y recomendaciones por recompensa",
-  "version": "0.16.2"
+  "commit": "027389d9a38e9519318fcfc0e6274ad5b4977717",
+  "fecha": "2026-11-04 07:52 UTC",
+  "digest": "sha256:e2aef0c267d1ba64ba63b43b066df6838fbbf02f184cc35140fc86234a7a646f",
+  "notas": "Correcciones y mejoras",
+  "version": "0.17.0"
 }
