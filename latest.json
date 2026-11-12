@@ -1,7 +1,7 @@
 {
-  "commit": "027389d9a38e9519318fcfc0e6274ad5b4977717",
-  "fecha": "2026-11-04 07:52 UTC",
-  "digest": "sha256:e2aef0c267d1ba64ba63b43b066df6838fbbf02f184cc35140fc86234a7a646f",
-  "notas": "Correcciones y mejoras",
-  "version": "0.17.0"
+  "commit": "351849f406becf5e330ce66917a444137d8cdfac",
+  "fecha": "2026-11-12 17:41 UTC",
+  "digest": "sha256:e864bac6d255cf6b861f1280d6f389acc2a64d8a0e584e607a1a0b34ec1f1861",
+  "notas": "Versión 1.0: reenviar a qBittorrent también para subidas fallidas que ya están en eMuwarez, y correcciones de fiabilidad.",
+  "version": "1.0.0"
 }
