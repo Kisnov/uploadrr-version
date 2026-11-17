@@ -1,7 +1,7 @@
 {
-  "commit": "34415120e142bbe078ebcbc240622328c9411712",
-  "fecha": "2026-11-13 15:44 UTC",
-  "digest": "sha256:6756cadcadf13806caf21678bb2582b38012e88da13f1d3ad4aea60418c9fc86",
-  "notas": "Borrar un intento fallido ya no borra otra subida del mismo título que sí llegó. Nueva firma animada en las descripciones y enlace a la ficha en el comentario del torrent. Mejoras de fiabilidad en el seguimiento de las subidas.",
-  "version": "1.0.1"
+  "commit": "55887114da168e5a8c1d1f0e1da2d0b8bc680227",
+  "fecha": "2026-11-17 17:13 UTC",
+  "digest": "sha256:da5d5f37c4ccadf5b8ad085ee7977f9ebb9d27f2b34976f2e52bb9b82b09c32b",
+  "notas": "Mejoras de accesibilidad: chapas de estado más legibles, etiquetas en los campos del asistente de subida y retoques en la primera configuración.",
+  "version": "1.0.2"
 }
