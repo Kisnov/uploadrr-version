@@ -1,7 +1,7 @@
 {
-  "commit": "55887114da168e5a8c1d1f0e1da2d0b8bc680227",
-  "fecha": "2026-11-17 17:13 UTC",
-  "digest": "sha256:da5d5f37c4ccadf5b8ad085ee7977f9ebb9d27f2b34976f2e52bb9b82b09c32b",
-  "notas": "Mejoras de accesibilidad: chapas de estado más legibles, etiquetas en los campos del asistente de subida y retoques en la primera configuración.",
-  "version": "1.0.2"
+  "commit": "b71299f64a5ef3ae2a4be98c081b90b47e3e4158",
+  "fecha": "2026-11-17 21:03 UTC",
+  "digest": "sha256:d16f44445fb9364ae43a780a755c766b9bd5110eeab3d04ed3527d37bdf67735",
+  "notas": "Primera versión pública. La imagen pasa a ghcr.io/kisnov/emuwarr: cambia la línea image del compose.",
+  "version": "1.1.0"
 }
