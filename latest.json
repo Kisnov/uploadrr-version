@@ -1,7 +1,7 @@
 {
-  "commit": "b71299f64a5ef3ae2a4be98c081b90b47e3e4158",
-  "fecha": "2026-11-17 21:03 UTC",
-  "digest": "sha256:d16f44445fb9364ae43a780a755c766b9bd5110eeab3d04ed3527d37bdf67735",
-  "notas": "Primera versión pública. La imagen pasa a ghcr.io/kisnov/emuwarr: cambia la línea image del compose.",
-  "version": "1.1.0"
+  "commit": "093559fb252188120e429f3e1b830f94fb74f0a5",
+  "fecha": "2026-11-18 18:50 UTC",
+  "digest": "sha256:2e0029c16d122629590d7c499cac1d9b9ceb767b26a172225280a62128be728c",
+  "notas": "Estadísticas de tu cuenta de eMuwarez (ritmo, objetivos, tus subidas y avisos de H&R, grupo, buffer y seeding). Cada subida lleva su propia configuración y la app comparte el límite de llamadas a la API. Los idiomas usan su código internacional (ENG, JPN, KOR, GER). Imagen también para arm64. Capturas más ligeras y correcciones.",
+  "version": "1.2.0"
 }
