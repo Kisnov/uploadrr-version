@@ -1,7 +1,7 @@
 {
-  "commit": "093559fb252188120e429f3e1b830f94fb74f0a5",
-  "fecha": "2026-11-18 18:50 UTC",
-  "digest": "sha256:2e0029c16d122629590d7c499cac1d9b9ceb767b26a172225280a62128be728c",
-  "notas": "Estadísticas de tu cuenta de eMuwarez (ritmo, objetivos, tus subidas y avisos de H&R, grupo, buffer y seeding). Cada subida lleva su propia configuración y la app comparte el límite de llamadas a la API. Los idiomas usan su código internacional (ENG, JPN, KOR, GER). Imagen también para arm64. Capturas más ligeras y correcciones.",
-  "version": "1.2.0"
+  "commit": "3e566cfa9a59d13ca158c82ab64f8f05bd475942",
+  "fecha": "2026-11-19 18:05 UTC",
+  "digest": "sha256:63d3f3ba11cee5895920f10d41db536e1ebdd695bc44a311a2188aa2af3f7b12",
+  "notas": "Mejoras en la conexión con eMuwarez y en la configuración de Uploadrr-EMU. Las subidas que aún no ha aprobado un moderador salen como «Pendiente de moderación». «Ver logs» de Tareas muestra todas sus ejecuciones. Correcciones y mejoras de seguridad.",
+  "version": "1.3.0"
 }
